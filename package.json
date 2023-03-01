@@ -1,0 +1,11 @@
+{
+  "name": "vercel-functions",
+  "version": "1.0.0",
+  "description": "vercel serverless function test",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "author": "",
+  "license": "ISC"
+}
